@@ -44,6 +44,11 @@ In the current setup, the servo is running at a delay of 5ms and the angle is 0-
 
 **a. Make a video of your proto puppet.**
 
+[Video of the setup](https://i.imgur.com/4kIUdVz.mp4)
+<br>
+[Image of the Circuit]<br><img src="https://i.imgur.com/JqIBSAD.jpg" height="50%" width="50%"><br>
+
+
 ## Part E. Make it your own
 
 **a. Make a video of your final design.**
