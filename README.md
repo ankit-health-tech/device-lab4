@@ -8,6 +8,8 @@
 
 **Link to a video of your virbation motor**
 
+[Video of the setup](https://i.imgur.com/3EHeRMQ.mp4)
+
 ## Part B. Actuating Servo motors
 
 ### Part 1. Connect the Servo to your breadboard
