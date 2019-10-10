@@ -52,3 +52,11 @@ In the current setup, the servo is running at a delay of 5ms and the angle is 0-
 ## Part E. Make it your own
 
 **a. Make a video of your final design.**
+
+I used a lego based motor inspiration for the servo. Converting the servo using paper to connect with lego gears and making them move in unison. 
+
+[Video of the setup](https://i.imgur.com/3vpPtXG.mp4)
+<br>
+[Image of the Circuit]<br><img src="https://i.imgur.com/O0H3GXH.jpg" height="50%" width="50%"><br>
+
+
